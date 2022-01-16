@@ -1,0 +1,46 @@
+UnitName,LastCycle
+CC NG 03,DA
+CC NG 04,DA
+CC NG 05,DA
+CC NG 12,DA
+CC NG 21,DA
+CC NG 26,DA
+CC NG 28,DA
+CC NG 31,DA
+CC NG 34,DA
+CC NG 37,DA
+CC NG 39,DA
+ST NG 01,DA
+ST NG 02,DA
+ST NG 08,DA
+ST NG 10,DA
+CT NG 01,HA
+CT NG 11,HA
+CT NG 21,HA
+CT NG 41,DA
+CT NG 71,HA
+Battery 1,DA
+Battery 3,DA
+Battery 4,DA
+Battery 5,DA
+Battery 6,DA
+Battery 7,DA
+Battery 8,DA
+Battery 9,DA
+Battery 10,HA
+Battery 12,HA
+Battery 13,HA
+Battery 14,HA
+Battery 15,HA
+Battery 16,HA
+Battery 17,HA
+Battery 18,HA
+Battery 19,HA
+Battery 20,HA
+Battery 21,HA
+Battery 22,HA
+Battery 23,HA
+Battery 26,HA
+Battery 27,HA
+Battery 28,HA
+Battery 29,HA
